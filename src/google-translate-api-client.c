@@ -5,7 +5,7 @@
 # include "cJSON.h"
 # include "google-translate-api-client.h"
 
-# define URL_WITH_KEY "https://translation.googleapis.com/language/translate/v2?key=AIzaSyDT57YwWOPN1ymKXnrvBLSlTjT_-vLTpUw"
+# define URL_WITH_KEY ""
 # define DONT_VERIFY_PEER_SSL 0
 
 CURL *curl;
